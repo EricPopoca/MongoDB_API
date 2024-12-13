@@ -1,0 +1,4 @@
+fa_venv
+**_pycache_
+test*.py
+.env
