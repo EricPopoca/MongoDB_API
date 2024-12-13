@@ -1,4 +1,4 @@
-fa_venv
+venv
 **_pycache_
 test*.py
 .env
